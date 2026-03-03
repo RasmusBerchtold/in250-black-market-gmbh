@@ -3,7 +3,8 @@ name: Stale checker
 on:
   schedule:
     - cron: "0 0 * * *" # jeden Tag um Mitternacht
-
+  workflow_dispatch:
+    
 jobs:
   stale:
 
