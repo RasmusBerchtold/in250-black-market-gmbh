@@ -1,5 +1,4 @@
-### Verzeichnisstruktur
-
+# Verzeichnisstruktur
 ## docs
 
 "Dokummentation der Schritte und des Projektes" 
