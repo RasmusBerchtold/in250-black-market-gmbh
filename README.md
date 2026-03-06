@@ -5,7 +5,7 @@ Hier wird die Grundfunktion des Programmes beschrieben.
 
 ![alt text][Code]
 
-[Code]:docs/image.png
+[Code]:assets/image.png
 
 ## Doku
 
