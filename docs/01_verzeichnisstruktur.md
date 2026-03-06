@@ -8,6 +8,6 @@
 
 "Beinhaltet Quellcode"
 
-## geheim
+## secret
 
 "Enthält geheime daten"
