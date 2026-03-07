@@ -14,6 +14,6 @@ Hier wird die Grundfunktion des Programmes beschrieben.
 
 ## Tasks
 
-- README erstellen 
-- Dokumentations Verzeichnis erstellen
-- Bilder mache
+- [x] README erstellen 
+- [x] Dokumentations Verzeichnis erstellen
+- [x] Bilder erstellen
