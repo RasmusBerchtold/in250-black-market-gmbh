@@ -11,6 +11,9 @@ Hier wird die Grundfunktion des Programmes beschrieben.
 
 - [Verzeichnisstruktur](docs/01_verzeichnisstruktur.md)
 
+## Strategie
+
+- [Branch_Strategie](docs/02_branch_strategie.md)
 
 ## Tasks
 
