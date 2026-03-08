@@ -17,7 +17,7 @@ Hier wird die Grundfunktion des Programmes beschrieben.
 
 ## Github Page
 
-- [Website](rasmusberchtold.github.io)
+- [Website](https://rasmusberchtold.github.io/)
 
 ## Tasks
 
