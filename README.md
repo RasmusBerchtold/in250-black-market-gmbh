@@ -15,6 +15,10 @@ Hier wird die Grundfunktion des Programmes beschrieben.
 
 - [Branch_Strategie](docs/02_branch_strategie.md)
 
+## Github Page
+
+- [Website](rasmusberchtold.github.io)
+
 ## Tasks
 
 - [x] README erstellen 
