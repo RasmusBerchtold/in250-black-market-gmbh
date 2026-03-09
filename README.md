@@ -17,7 +17,7 @@ Hier wird die Grundfunktion des Programmes beschrieben.
 
 ## Github Page
 
-- [Website](https://rasmusberchtold.github.io/)
+- [Website](https://rasmusberchtold.github.io/in250-black-market-gmbh/)
 
 ## Tasks
 
