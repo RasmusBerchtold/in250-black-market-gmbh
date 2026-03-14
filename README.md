@@ -15,7 +15,7 @@ Hier wird die Grundfunktion des Programmes beschrieben.
 
 - [Branch_Strategie](docs/02_branch_strategie.md)
 
-## Github Page
+## Github Page
 
 - [Website](https://rasmusberchtold.github.io/in250-black-market-gmbh/)
 
